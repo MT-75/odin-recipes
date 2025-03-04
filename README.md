@@ -1,20 +1,20 @@
 # odin-recipes
 
-With this first project, I put on practice the following contents I
-learned in the previous lessons:
-    - The HTML boiler plate
-    - The <h1>, <h2> and <p> elements
-    - The <ul>, <ol> and <li> elements
-    - The <a> and <img> elements with its attributes
+<p>With this first project, I put on practice the following contents I
+learned in the previous lessons:</p>
+    <p>- The HTML boiler plate</p>
+    <p>- The header and paragraph elements</p>
+    <p>- The unordered list, ordered list and list item elements.</p>
+    <p>- The anchor and image elements with its attributes.</p>
 
-I also make use of Git commands and GitHub, getting familiar with the
-Git workflow.
+<p>I also make use of Git commands and GitHub, getting familiar with the
+Git workflow.</p>
 
-I put me in the practice of good commit messages.
+<p>I put me in the practice of good commit messages.</p>
 
-And finally, I put on practice good organization of the files and folders
-in my project.
+<p>And finally, I put on practice good organization of the files and folders
+in my project.</p>
 
-I'm eager to learn more and improve!
+<p>I'm eager to learn more and improve!</p>
 
-PS: sorry for mediocre English
+<p>PS: sorry for mediocre English</p>
