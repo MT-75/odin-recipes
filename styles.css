@@ -1,0 +1,29 @@
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1 {
+    font-size: 48px;
+    font-weight: bold;
+    color: darkred;
+    background-color: aliceblue;
+}
+
+ul {
+    background-color: white;
+    font-size: 32px;
+}
+
+li {
+    background-color: darkblue;
+    font-weight: 700;
+}
+
+a {
+    color: darkgray;
+    background-color: black;
+}
+
+img {
+    border-radius: 2%;
+}
